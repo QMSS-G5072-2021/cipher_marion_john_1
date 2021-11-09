@@ -1,0 +1,23 @@
+:py:mod:`cipher_ajm2314_1`
+==========================
+
+.. py:module:: cipher_ajm2314_1
+
+
+Submodules
+----------
+.. toctree::
+   :titlesonly:
+   :maxdepth: 1
+
+   cipher_ajm2314_1/index.rst
+
+
+Package Contents
+----------------
+
+.. py:data:: __version__
+   
+
+   
+
